@@ -1,0 +1,4 @@
+Pip install:
+Windows-Startfeld (unten links) öffnen, "cmd" eingeben
+> cd C:\Users\Martina\Anaconda3\Scripts
+> pip install "library" (z.B. pip install catsim)
