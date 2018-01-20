@@ -1,4 +1,4 @@
-Pip install:
+﻿Pip install:
 Windows-Startfeld (unten links) öffnen, "cmd" eingeben
 > cd C:\Users\Martina\Anaconda3\Scripts
 > pip install "library" (z.B. pip install catsim)
@@ -10,3 +10,4 @@ git rm ... (File löschen)
 git rm -r ... (wenn ein Ordner gelöscht werden soll)
 git commit -m "..." (Nachricht/Kommentar hinzufügen)
 git push (Änderungen etc in die Cloud hochladen)
+git pull (Änderungen aus der Cloud in Local herunterladen)
