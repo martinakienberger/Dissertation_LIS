@@ -7,7 +7,7 @@ Dieses Dissertationsprojekt untersucht Bekanntheit und Einsatz von Strategien zu
 Die Dissertation steht über den [Hochschulschriftenserver der Universität Wien](https://bibliothek.univie.ac.at/en/e-theses.html) öffentlich zur Verfügung. 
 
 ------
-### Using the potential of potential vocabulary. Vocabulary inferencing strategies among L3 German students at Spanish Universities
+### Using the potential of potential vocabulary. Lexical inferencing strategies among L3 German students at Spanish Universities
 
 This PhD project investigates how foreign language students of German as a L3 at Spanish Universities are using strategies to infer the meaning of unknown words in written texts, according to their statements. This might help to lead us to a better understanding of how multilingual university students use inferencing techniques and how they can be supported in this task. To this end, between 2017 and 2019, German students at Spanish Universities were questioned in an online survey about their perceived strategy use and contexts of strategy acquisition. After piloting the research instrument 
 developed by the author at the University of Salamanca (n = 68) and analyzing the results, the improved questionnaire was distributed to students in 19 Spanish Universities to collect data on a nationwide scale (n = 333). In addition, German university teachers (n = 53) were questioned about their observations on students’ strategy use as well as the contents and methods of strategy instruction. For the analysis, several statistical methods including factorial analysis, multivariate analysis of variance and biplot as well as machine learning techniques (cluster analysis, random forest) were used. 
